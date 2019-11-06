@@ -1,0 +1,19 @@
+name: Gulp
+description: A custom theme for gulp website
+base theme: classy
+type: theme
+core: 8.x
+
+regions:
+  header: Header
+  navigation: Navigation
+  left_sidebar: Left Sidebar
+  content: Content
+  footer: Footer
+  page_top: Page Top
+  page_bottom: Page Bottom
+
+libraries:
+  - 'gulp/global-css'
+  - 'gulp/global-js'
+

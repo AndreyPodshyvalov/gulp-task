@@ -1,0 +1,88 @@
+body {
+  padding: 0 !important;
+  max-width: 80%;
+  margin: auto; }
+  body header {
+    background: #5C6AC4;
+    margin-top: 7%; }
+    body header #block-logo .field--name-field-image {
+      padding-top: 4%;
+      text-align: center; }
+    body header #block-formtitle .field--name-body {
+      text-align: center;
+      margin-top: 5%; }
+      body header #block-formtitle .field--name-body p {
+        color: #ffffff;
+        font-size: 3.75em;
+        font-weight: 700;
+        margin: 0; }
+    body header #block-formdescription .field--name-body {
+      text-align: center; }
+      body header #block-formdescription .field--name-body p {
+        color: #ffffff;
+        font-weight: 400;
+        font-size: 2.25em;
+        margin: 2% 0 0 0; }
+    body header form {
+      text-align: center;
+      margin-top: 2%; }
+      body header form input {
+        margin-right: 2%;
+        padding: 1em 1em;
+        -webkit-box-shadow: 0 0 0 1px #c4cdd5;
+                box-shadow: 0 0 0 1px #c4cdd5;
+        border: 0;
+        border-radius: 3%;
+        width: 25%;
+        text-align: center;
+        margin-top: 2%; }
+      body header form button {
+        -webkit-box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.15);
+                box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.15);
+        background-color: #212b35;
+        color: #ffffff;
+        padding: 1.0625em 1.875em;
+        border-radius: 5%;
+        font-weight: 700;
+        border-width: 0; }
+    body header #block-textfield {
+      text-align: center;
+      width: 36.6666666667%;
+      margin: 2% auto 0 auto; }
+      body header #block-textfield p {
+        color: #ffffff;
+        font-size: 0.75em; }
+
+.layout-content {
+  padding-top: 5%; }
+  .layout-content .region-content {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 70%;
+    margin: auto; }
+    .layout-content .region-content #block-beautifulthemesthatareresponsiveandcustomizable-2,
+    .layout-content .region-content #block-pricingaslowas9mounth-2 {
+      float: left;
+      display: block;
+      margin-right: 2.1276595745%;
+      width: 31.914893617%; }
+    .layout-content .region-content #block-trustedbyover800000businessesworldwide-2 {
+      float: left;
+      display: block;
+      width: 31.914893617%; }
+    .layout-content .region-content #block-beautifulthemesthatareresponsiveandcustomizable-2 .field--name-body h2,
+    .layout-content .region-content #block-pricingaslowas9mounth-2 .field--name-body h2,
+    .layout-content .region-content #block-trustedbyover800000businessesworldwide-2 .field--name-body h2 {
+      font-size: 1.125em;
+      margin-bottom: 0.6666666667em;
+      color: #212b35;
+      line-height: 1.25;
+      font-weight: 700; }
+    .layout-content .region-content #block-beautifulthemesthatareresponsiveandcustomizable-2 .field--name-body p,
+    .layout-content .region-content #block-pricingaslowas9mounth-2 .field--name-body p,
+    .layout-content .region-content #block-trustedbyover800000businessesworldwide-2 .field--name-body p {
+      line-height: 1.5;
+      font-size: 1em;
+      color: #637381;
+      font-weight: 400; }

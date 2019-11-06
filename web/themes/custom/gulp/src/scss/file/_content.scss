@@ -1,0 +1,39 @@
+.layout-content {
+  padding-top: 5%;
+  .region-content {
+    display: flex;
+    width: 70%;
+    margin: auto;
+    #block-beautifulthemesthatareresponsiveandcustomizable-2,
+    #block-pricingaslowas9mounth-2 {
+      float: left;
+      display: block;
+      margin-right: 2.1276595745%;
+      width: 31.914893617%;
+    }
+    #block-trustedbyover800000businessesworldwide-2 {
+      float: left;
+      display: block;
+      width: 31.914893617%;
+    }
+    #block-beautifulthemesthatareresponsiveandcustomizable-2,
+    #block-pricingaslowas9mounth-2,
+    #block-trustedbyover800000businessesworldwide-2 {
+      .field--name-body {
+        h2 {
+          font-size: 1.125em;
+          margin-bottom: 0.6666666667em;
+          color: #212b35;
+          line-height: 1.25;
+          font-weight: 700;
+        }
+        p {
+          line-height: 1.5;
+          font-size: 1em;
+          color: #637381;
+          font-weight: 400;
+        }
+      }
+    }
+  }
+}
